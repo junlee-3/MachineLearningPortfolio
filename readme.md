@@ -1,6 +1,6 @@
 # IT Machine Learning Portfolio
 
-Welcome to my machine learning portfolio! This portfolio showcases three key projects that demonstrate my understanding and application of various machine learning techniques. The projects included are Image Classification, K-Nearest Neighbors (KNN), and Linear Regression.
+This portfolio showcases three key projects that demonstrate my understanding and application of various machine learning techniques. The projects included are Image Classification, K-Nearest Neighbors (KNN), and Linear Regression.
 
 ## Projects
 
