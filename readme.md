@@ -4,8 +4,8 @@ Welcome to my machine learning portfolio! This portfolio showcases three key pro
 
 ## Projects
 
-### 1. Image Classification
-This project involves using a Convolutional Neural Network (CNN) to classify images into different categories. The dataset used consists of labeled images, and the goal is to train a model that can accurately predict the category of new, unseen images. The CNN architecture is designed to automatically learn important features from the images, such as edges and textures, which are used to make predictions.
+### 1. Image Classification using Tensorflow
+This project involves using a Convolutional Neural Network (CNN) to classify images into different categories. The dataset used consists of labeled images, and the goal is to train a model that can accurately predict the category of new, unseen images of clothing.
 
 **Key Features:**
 - **Dataset:** Labeled images.
